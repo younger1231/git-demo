@@ -25,7 +25,7 @@ void scanf()
 	int num1=0;
 	int num2=0;
 	
-	char str[20];
+	char str[30];
 	
 	//scanf("%d %d",&num1,&num2);
 	scanf("%s",&str);
